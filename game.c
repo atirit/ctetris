@@ -6,6 +6,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 #include <string.h>
+#include <time.h>
 
 enum Piece { T, S, Z, L, J, O, I };
 
